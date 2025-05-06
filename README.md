@@ -1,2 +1,2 @@
-# cs_research_papers
+# CS Research Papers
 Collection of Computer Science Research Papers

@@ -4,35 +4,39 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-### 1. [New care pathways for supporting transitional care from hospitals to home using AI and personalized digital assistance](https://www.nature.com/articles/s41598-025-03332-w)
+### 1. [Scaling and logic in the color code on a superconducting quantum processor](https://www.nature.com/articles/s41586-025-09061-4)
 
-Authors: Ionut Anghel et al.
+Authors: N. Lacroix et al.
 
-### 2. [An advanced three stage lightweight model for underwater human detection](https://www.nature.com/articles/s41598-025-03677-2)
+### 2. [A multi-object detection method for building fire warnings through artificial intelligence generated content](https://www.nature.com/articles/s41598-025-02865-4)
 
-Authors: Zichen Liao et al.
+Authors: Jingwei Fu et al.
 
-### 3. [Distributed denial-of-service (DDoS) on the smart grids based on VGG19 deep neural network and Harris Hawks optimization algorithm](https://www.nature.com/articles/s41598-025-03354-4)
+### 3. [Translation of computed tomography images to T2-Weighted magnetic resonance images of lumbar spine using generative adversarial networks on sagittal images](https://www.nature.com/articles/s41598-025-03516-4)
 
-Authors: Abdurahim Alhashmi et al.
+Authors: Kwang Hyeon Kim et al.
 
-### 4. [Improved Snake Optimization Algorithm for Global Optimization and Engineering Applications](https://www.nature.com/articles/s41598-025-01299-2)
+### 4. [Bi directional sparse attention recurrent autoencoder based intrusion detection for VANET security with tuna swarm optimization](https://www.nature.com/articles/s41598-025-02729-x)
 
-Authors: Kaiyuan Zheng et al.
+Authors: R. Gopi et al.
 
-### 5. [A thermodynamic inspired AI based search algorithm for solving ordinary differential equations](https://www.nature.com/articles/s41598-025-03093-6)
+### 5. [Unveiling the social fabric through a temporal, nation-scale social network and its characteristics](https://www.nature.com/articles/s41598-025-98072-2)
 
-Authors: V. Murugesh et al.
+Authors: Jolien Cremers et al.
 
-### 6. [Design optimization of university ideological and political education system based on deep learning](https://www.nature.com/articles/s41598-025-02991-z)
+### 6. [FedCVG: a two-stage robust federated learning optimization algorithm](https://www.nature.com/articles/s41598-025-02722-4)
 
-Authors: Shangle Ai et al.
+Authors: Runze Zhang et al.
 
-### 7. [Medical image segmentation model based on local enhancement driven global optimization](https://www.nature.com/articles/s41598-025-02393-1)
+### 7. [Efficient TD3 based path planning of mobile robot in dynamic environments using prioritized experience replay and LSTM](https://www.nature.com/articles/s41598-025-02244-z)
 
-Authors: Lianghui Xu et al.
+Authors: Yunhan Lin et al.
 
-### 8. [Multi-perspective dynamic consistency learning for semi-supervised medical image segmentation](https://www.nature.com/articles/s41598-025-03124-2)
+### 8. [Research on subway settlement prediction based on the WTD-PSR combination and GSM-SVR model](https://www.nature.com/articles/s41598-025-02673-w)
 
-Authors: Yongfa Zhu et al.
+Authors: Miren Rong et al.
+
+### 9. [A deep multiple self-supervised clustering model based on autoencoder networks](https://www.nature.com/articles/s41598-025-00349-z)
+
+Authors: Ling Zhu et al.
 

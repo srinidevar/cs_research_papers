@@ -4,7 +4,15 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-### 1. [A secure and efficient user selection scheme in vehicular crowdsensing](https://www.nature.com/articles/s41598-025-02530-w)
+### 1. [Deep learning driven interpretable and informed decision making model for brain tumour prediction using explainable AI](https://www.nature.com/articles/s41598-025-03358-0)
 
-Authors: Min Zhang et al.
+Authors: Khan Muhammad Adnan et al.
+
+### 2. [A precise spatiotemporal fusion crop classification framework based on parcels](https://www.nature.com/articles/s41598-025-03351-7)
+
+Authors: Liegang Xia et al.
+
+### 3. [Research on insider threat detection based on personalized federated learning and behavior log analysis](https://www.nature.com/articles/s41598-025-04029-w)
+
+Authors: Xiaoyun Ye et al.
 

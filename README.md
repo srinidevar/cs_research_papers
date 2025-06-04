@@ -4,31 +4,35 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-### 1. [Lightweight insulator target detection algorithm based on improved YOLOX](https://www.nature.com/articles/s41598-025-04023-2)
+### 1. [Supervised optimal control in complex continuous systems with trajectory imitation and reinforcement learning](https://www.nature.com/articles/s41598-025-04417-2)
 
-Authors: Bing Zeng et al.
+Authors: Yingjun Liu et al.
 
-### 2. [Real-time multiple people gait recognition in the edge](https://www.nature.com/articles/s41598-025-02351-x)
+### 2. [Traffic sign detection method based on improved YOLOv8](https://www.nature.com/articles/s41598-025-03792-0)
 
-Authors: Paula Ruiz-Barroso et al.
+Authors: Gaihua Wang et al.
 
-### 3. [2D logistic map with unit transfer function and modulus operation based pseudorandom number generation for image encryption](https://www.nature.com/articles/s41598-025-04702-0)
+### 3. [Multi-branch network for double JPEG detection and localization](https://www.nature.com/articles/s41598-025-04203-0)
 
-Authors: Raiz Ahmad et al.
+Authors: Ahmed M. Fouad et al.
 
-### 4. [A deep learning and IoT-driven framework for real-time adaptive resource allocation and grid optimization in smart energy systems](https://www.nature.com/articles/s41598-025-02649-w)
+### 4. [Concealable physical unclonable functions using vertical NAND flash memory](https://www.nature.com/articles/s41467-025-60415-y)
 
-Authors: Arvind R. Singh et al.
+Authors: Sung-Ho Park et al.
 
-### 5. [Concept transfer of synaptic diversity from biological to artificial neural networks](https://www.nature.com/articles/s41467-025-60078-9)
+### 5. [Reversible image steganography based on residual structure and attention mechanism](https://www.nature.com/articles/s41598-025-04441-2)
 
-Authors: Martin Hofmann et al.
+Authors: Lianshan Liu et al.
 
-### 6. [An optimized deterministic concurrency control approach for geo-distributed transaction processing on permissioned blockchains](https://www.nature.com/articles/s41598-025-00478-5)
+### 6. [Use of deep learning-based NLP models for full-text data elements extraction for systematic literature review tasks](https://www.nature.com/articles/s41598-025-03979-5)
 
-Authors: Zhibo Han et al.
+Authors: Jingcheng Du et al.
 
-### 7. [The usage of a transformer based and artificial intelligence driven multidimensional feedback system in english writing instruction](https://www.nature.com/articles/s41598-025-05026-9)
+### 7. [Navigation in brain networks is possible using only local measures](https://www.nature.com/articles/s41598-025-04347-z)
 
-Authors: Xiaofeng Zheng et al.
+Authors: Alex Hocking et al.
+
+### 8. [Predicting drug-target interactions using machine learning with improved data balancing and feature engineering](https://www.nature.com/articles/s41598-025-03932-6)
+
+Authors: Md. Alamin Talukder et al.
 

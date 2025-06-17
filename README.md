@@ -4,9 +4,13 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-06-14 PST.
+Pulled on 2025-06-16 PST.
 
-### 1. [A scoping review of self-supervised representation learning for clinical decision making using EHR categorical data](https://www.nature.com/articles/s41746-025-01692-1)
+### 1. [Mask-prior-guided denoising diffusion improves inverse protein folding](https://www.nature.com/articles/s42256-025-01042-6)
 
-Authors: Zheng Yuanyuan et al.
+Authors: Peizhen Bai et al.
+
+### 2. [Learning vision-based agile flight via differentiable physics](https://www.nature.com/articles/s42256-025-01048-0)
+
+Authors: Yuang Zhang et al.
 

@@ -4,13 +4,17 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-07-05 PST.
+Pulled on 2025-07-06 PST.
 
-### 1. [Efficient attention vision transformers for monocular depth estimation on resource-limited hardware](https://www.nature.com/articles/s41598-025-06112-8)
+### 1. [The application of improved AFCNN model for children’s psychological emotion recognition](https://www.nature.com/articles/s41598-025-10269-7)
 
-Authors: Claudio Schiavella et al.
+Authors: Feiqin Wang et al.
 
-### 2. [Research on predicting the risk level of coal mine roof accident based on machine learning](https://www.nature.com/articles/s41598-025-07760-6)
+### 2. [GCSA-ResNet: a deep neural network architecture for Malware detection](https://www.nature.com/articles/s41598-025-10561-6)
 
-Authors: Zhao-Yang Guan et al.
+Authors: Yukang Fan et al.
+
+### 3. [Deep learning driven prediction and comparative study of surrounding rock deformation in high speed railway tunnels](https://www.nature.com/articles/s41598-025-09791-5)
+
+Authors: Zeping Yang et al.
 

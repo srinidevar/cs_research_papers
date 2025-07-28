@@ -4,25 +4,29 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-07-26 PST.
+Pulled on 2025-07-27 PST.
 
-### 1. [Alleviating the quantum Big-M problem](https://www.nature.com/articles/s41534-025-01067-0)
+### 1. [Research on series arc fault detection method household loads based on voltage signals](https://www.nature.com/articles/s41598-025-12760-7)
 
-Authors: Edoardo Alessandroni et al.
+Authors: Bin Li et al.
 
-### 2. [Adaptive multimodal transformer based on exchanging for multimodal sentiment analysis](https://www.nature.com/articles/s41598-025-11848-4)
+### 2. [Improvement of English-Chinese bilingual learning by integrating semantic analysis and neural machine translation](https://www.nature.com/articles/s41598-025-12614-2)
 
-Authors: Gulanbaier Tuerhong et al.
+Authors: Yue Zhao et al.
 
-### 3. [Insurance claims estimation and fraud detection with optimized deep learning techniques](https://www.nature.com/articles/s41598-025-12848-0)
+### 3. [The effect of electronic prescription systems on pharmacy performance through evaluation of existing infrastructure in Kerman Iran](https://www.nature.com/articles/s41598-025-12629-9)
 
-Authors: P. Anand Kumar et al.
+Authors: Shokoufeh Karimi et al.
 
-### 4. [A novel dual-student reverse knowledge distillation method for magnetic tile defect detection](https://www.nature.com/articles/s41598-025-12339-2)
+### 4. [Interpretable multitask deep learning model for detecting and analyzing severity of rice bacterial leaf blight](https://www.nature.com/articles/s41598-025-12276-0)
 
-Authors: Jiyan Tang et al.
+Authors: Sudhesh K. M et al.
 
-### 5. [A steady state micro genetic algorithm for hyper-heuristic generation in one-dimensional bin packing](https://www.nature.com/articles/s41598-025-10790-9)
+### 5. [Sparse point annotations for remote sensing image segmentation](https://www.nature.com/articles/s41598-025-12969-6)
 
-Authors: Julio Juárez et al.
+Authors: Sixian Chan et al.
+
+### 6. [A blockchain-based verifiable CP-ABE scheme for medical data privacy protection](https://www.nature.com/articles/s41598-025-13069-1)
+
+Authors: Leilei Zhao et al.
 

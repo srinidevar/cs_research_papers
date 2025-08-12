@@ -4,45 +4,49 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-08-09 PST.
+Pulled on 2025-08-11 PST.
 
-### 1. [DeepISLES: a clinically validated ischemic stroke segmentation model from the ISLES'22 challenge](https://www.nature.com/articles/s41467-025-62373-x)
+### 1. [MANIT: a multilayer ANN integrated framework using biometrics and historical features for online examination proctoring](https://www.nature.com/articles/s41598-025-15486-8)
 
-Authors: Ezequiel de la Rosa et al.
+Authors: Manit Malhotra et al.
 
-### 2. [Human-alignment influences the utility of AI-assisted decision making](https://www.nature.com/articles/s41598-025-12205-1)
+### 2. [Property-driven localization and characterization in deep molecular representations](https://www.nature.com/articles/s41598-025-09717-1)
 
-Authors: Nina L. Corvelo Benz et al.
+Authors: Celia Cintas et al.
 
-### 3. [Enhancing art creation through AI-based generative adversarial networks in educational auxiliary system](https://www.nature.com/articles/s41598-025-14164-z)
+### 3. [Fast sparse representative tree splitting via local density for large-scale clustering](https://www.nature.com/articles/s41598-025-13848-w)
 
-Authors: Yongjun He et al.
+Authors: Renmin Wang et al.
 
-### 4. [DDoS classification of network traffic in software defined networking SDN using a hybrid convolutional and gated recurrent neural network](https://www.nature.com/articles/s41598-025-13754-1)
+### 4. [Inspection of railway catenary systems using machine learning with domain knowledge integration](https://www.nature.com/articles/s41598-025-15289-x)
 
-Authors: Ahmed M. Elshewey et al.
+Authors: Kacper Marciniak et al.
 
-### 5. [DSAT: a dynamic sparse attention transformer for steel surface defect detection with hierarchical feature fusion](https://www.nature.com/articles/s41598-025-14935-8)
+### 5. [Ethical considerations and robustness of artificial neural networks in medical image analysis under data corruption](https://www.nature.com/articles/s41598-025-15268-2)
 
-Authors: Shouluan Wu et al.
+Authors: Michael Okunev et al.
 
-### 6. [Vehicular ad hoc networks verification scheme based on bilinear pairings and networks reverse fuzzy extraction](https://www.nature.com/articles/s41598-025-15011-x)
+### 6. [Optimizing hybrid network topologies in communication networks through irregularity strength](https://www.nature.com/articles/s41598-025-05631-8)
 
-Authors: Zaid Ameen Abduljabbar et al.
+Authors: Syed Aqib Abbas Naqvi et al.
 
-### 7. [AE-BPNN: autoencoder and backpropagation neural network-based model for lithium-ion battery state of health estimation](https://www.nature.com/articles/s41598-025-12771-4)
+### 7. [Design and fabrication of 4 double input NAND gate chip with excellent electrical and physical performances](https://www.nature.com/articles/s41598-025-14874-4)
 
-Authors: Abdullah Ahmed Al-Dulaimi et al.
+Authors: Lijun Zhang et al.
 
-### 8. [Learning spatio-temporal context for basketball action pose estimation with a multi-stream network](https://www.nature.com/articles/s41598-025-14985-y)
+### 8. [Research on parameter selection and optimization of C4.5 algorithm based on algorithm applicability knowledge base](https://www.nature.com/articles/s41598-025-11901-2)
 
-Authors: Zhihao Zhang et al.
+Authors: Yiyan Zhang et al.
 
-### 9. [A blockchain-based deep learning approach for student course recommendation and secure digital certification](https://www.nature.com/articles/s41598-025-14778-3)
+### 9. [A simulated dataset for proactive robot task inference from streaming natural language dialogues](https://www.nature.com/articles/s41597-025-05727-w)
 
-Authors: Amjad Rakha et al.
+Authors: Haifeng Xu et al.
 
-### 10. [3D long time spatiotemporal convolution for complex transfer sequence prediction](https://www.nature.com/articles/s41598-025-13828-0)
+### 10. [Human adaptation to adaptive machines converges to game-theoretic equilibria](https://www.nature.com/articles/s41598-025-12998-1)
 
-Authors: Qiu Yunan et al.
+Authors: Benjamin J. Chasnov et al.
+
+### 11. [‌Rockburst intensity grading prediction based on the LOF-ENN-KNN model‌](https://www.nature.com/articles/s41598-025-15603-7)
+
+Authors: Haoran Ge et al.
 

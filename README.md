@@ -4,45 +4,33 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-08-16 PST.
+Pulled on 2025-08-17 PST.
 
-### 1. [Stacked ensemble model for NBA game outcome prediction analysis](https://www.nature.com/articles/s41598-025-13657-1)
+### 1. [Intelligent generation and optimization of resources in music teaching reform based on artificial intelligence and deep learning](https://www.nature.com/articles/s41598-025-16458-8)
 
-Authors: Guangsen He et al.
+Authors: Ding Cheng et al.
 
-### 2. [Fish feeding behavior recognition via lightweight two stage network and satiety experiments](https://www.nature.com/articles/s41598-025-15241-z)
+### 2. [Elucidation of user autonomous driving system preference mechanisms under the extension of internal and external factors](https://www.nature.com/articles/s41598-025-15442-6)
 
-Authors: Shilong Zhao et al.
+Authors: Juncheng Mu et al.
 
-### 3. [Tumor-specific PET tracer imaging and contrast-enhanced Mri based tumor volume differences inspection of glioblastoma patients](https://www.nature.com/articles/s41598-025-15185-4)
+### 3. [Improved faster R-CNN for steel surface defect detection in industrial quality control](https://www.nature.com/articles/s41598-025-12740-x)
 
-Authors: Irshad Ahmed Abbasi et al.
+Authors: Yuefeng Leng et al.
 
-### 4. [Semantic web ontology for structured knowledge representation and clinical decision support in eye diseases](https://www.nature.com/articles/s41598-025-15885-x)
+### 4. [Internet of things driven object detection framework for consumer product monitoring using deep transfer learning and hippopotamus optimization](https://www.nature.com/articles/s41598-025-13224-8)
 
-Authors: Fatima Anjum et al.
+Authors: Amnah Alshahrani et al.
 
-### 5. [PCPE-YOLO with a lightweight dynamically reconfigurable backbone for small object detection](https://www.nature.com/articles/s41598-025-15975-w)
+### 5. [A comprehensive analysis of digital inclusive finance’s influence on high quality enterprise development through fixed effects and deep learning frameworks](https://www.nature.com/articles/s41598-025-14610-y)
 
-Authors: Weijia Chen et al.
+Authors: Dedai Wei et al.
 
-### 6. [Nonlinear time domain and multi-scale frequency domain feature fusion for time series forecasting](https://www.nature.com/articles/s41598-025-15907-8)
+### 6. [SCSFish2025: a large dataset from South China sea for coral reef fish identification](https://www.nature.com/articles/s41598-025-14785-4)
 
-Authors: Kejiang Xiao et al.
+Authors: Meng Wang et al.
 
-### 7. [Deep neural architectures for Kashmiri-English machine translation](https://www.nature.com/articles/s41598-025-14177-8)
+### 7. [High efficiency classification of thyroid cytopathological images based on knowledge distillation and vision transformer](https://www.nature.com/articles/s41598-025-15728-9)
 
-Authors: Syed Matla Ul Qumar et al.
-
-### 8. [The impact of CNN MHAM-enhanced WRF and BPNN models for user behavior prediction](https://www.nature.com/articles/s41598-025-15424-8)
-
-Authors: Kaixin Zheng et al.
-
-### 9. [Cross-modal gated feature enhancement for multimodal emotion recognition in conversations](https://www.nature.com/articles/s41598-025-11989-6)
-
-Authors: Shiyun Zhao et al.
-
-### 10. [Energy-aware cluster head optimization and secure blockchain integration for heterogeneous 6G-enabled IoMT networks](https://www.nature.com/articles/s41598-025-15462-2)
-
-Authors: R. Yuvarani et al.
+Authors: Jiazhe Zhang et al.
 

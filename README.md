@@ -4,13 +4,9 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-08-30 PST.
+Pulled on 2025-08-31 PST.
 
-### 1. [A Benchmark Dataset for Radio Signal Image-based Person Re-Identification](https://www.nature.com/articles/s41597-025-05804-0)
+### 1. [Design of library intelligent lighting system based on deep learning](https://www.nature.com/articles/s41598-025-96690-4)
 
-Authors: Marco Cascio et al.
-
-### 2. [A lightweight multi round confusion-diffusion cryptosystem for securing images using a modified 5D chaotic system](https://www.nature.com/articles/s41598-025-13290-y)
-
-Authors: T. Anujaa et al.
+Authors: Hong Wang et al.
 

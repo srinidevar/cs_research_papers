@@ -4,33 +4,41 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2025-11-29 PST.
+Pulled on 2025-12-01 PST.
 
-### 1. [Autonomous recognition of erroneous raw key bit bias in quantum key distribution](https://www.nature.com/articles/s41598-025-30095-1)
+### 1. [Deep reinforcement learning-driven personalized training load control algorithm for competitive sports performance optimization](https://www.nature.com/articles/s41598-025-30453-z)
 
-Authors: Matt Young et al.
+Authors: Xiaoyu Xia et al.
 
-### 2. [Forensic identification using siamese, transfer learning and custom deep learning models](https://www.nature.com/articles/s41598-025-30703-0)
+### 2. [Hybrid quantum-classical photonic neural networks](https://www.nature.com/articles/s44335-025-00045-1)
 
-Authors: Omer Sevinc et al.
+Authors: Tristan Austin et al.
 
-### 3. [An integrated facial recognition system for classroom resource optimization using MobileNet and SSA-SVM](https://www.nature.com/articles/s41598-025-29327-1)
+### 3. [A simplified wearable device powered by a generative EMG network for hand-gesture recognition and gait prediction](https://www.nature.com/articles/s44460-025-00002-2)
 
-Authors: Kaiyuan Fan
+Authors: Kyun Kyu Kim et al.
 
-### 4. [Integrated meteocean and seismic dataset for AI-based seawater CO2 estimation at Deception Island, Antarctica](https://www.nature.com/articles/s41597-025-06351-4)
+### 4. [Exposure to content written by large language models can reduce stigma around opioid use disorder](https://www.nature.com/articles/s44387-025-00049-z)
 
-Authors: S. Flecha et al.
+Authors: Shravika Mittal et al.
 
-### 5. [Hybrid learning framework for synergistic fusion of SAR and optical UAV data in wildfire surveillance](https://www.nature.com/articles/s41598-025-26816-1)
+### 5. [MAIA: a collaborative medical AI platform for integrated healthcare innovation](https://www.nature.com/articles/s44387-025-00042-6)
 
-Authors: Balaji Ganesh Rajagopal et al.
+Authors: Simone Bendazzoli et al.
 
-### 6. [A smart manufacturing paradigm for robotic welding process optimization through machine learning](https://www.nature.com/articles/s41598-024-82590-6)
+### 6. [Self-reflection enhances large language models towards substantial academic response](https://www.nature.com/articles/s44387-025-00045-3)
 
-Authors: Javubar Sathick et al.
+Authors: Baoxue Li et al.
 
-### 7. [Three stream fusion network with color aware transformer for image to point cloud registration](https://www.nature.com/articles/s41598-025-28729-5)
+### 7. [Explainable few-shot learning with modern BERT for detecting emerging phishing attacks using XF PhishBERT](https://www.nature.com/articles/s41598-025-27500-0)
 
-Authors: Muyao Peng et al.
+Authors: Mohammed Tawfik et al.
+
+### 8. [SCOPE-MRI: Bankart lesion detection as a case study in data curation and deep learning for challenging diagnoses](https://www.nature.com/articles/s44387-025-00043-5)
+
+Authors: Sahil Sethi et al.
+
+### 9. [Empowering artificial intelligence with homomorphic encryption for secure deep reinforcement learning](https://www.nature.com/articles/s42256-025-01135-2)
+
+Authors: Chi-Hieu Nguyen et al.
 

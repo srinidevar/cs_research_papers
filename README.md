@@ -4,9 +4,13 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-01-17 PST.
+Pulled on 2026-01-19 PST.
 
-### 1. [Multi-level screening method for network security alarms based on DBSCAN algorithm and rete rule inference](https://www.nature.com/articles/s41598-026-36369-6)
+### 1. [Chinese spatial relation extraction model by integrating geographic semantic features](https://www.nature.com/articles/s41598-026-35282-2)
 
-Authors: Lin Ni et al.
+Authors: Peng Ye et al.
+
+### 2. [A comprehensive framework for statistical testing of brain dynamics](https://www.nature.com/articles/s41596-025-01300-2)
+
+Authors: Nick Y. Larsen et al.
 

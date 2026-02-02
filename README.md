@@ -4,21 +4,9 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-01-31 PST.
+Pulled on 2026-02-01 PST.
 
-### 1. [DNA diamond formulates a decomposable composite letter constellation model for DNA data storage](https://www.nature.com/articles/s41467-026-68861-y)
+### 1. [Diagnosis and grading of steatotic liver disease via clinical and laboratory data using machine learning](https://www.nature.com/articles/s41598-026-36834-2)
 
-Authors: Qi Ge et al.
-
-### 2. [Understanding mental health discourse on Reddit with transformers and explainability](https://www.nature.com/articles/s41598-026-35918-3)
-
-Authors: Irene Sánchez Rodríguez et al.
-
-### 3. [A genetic algorithm-based ensemble framework for wind speed forecasting](https://www.nature.com/articles/s41598-026-37003-1)
-
-Authors: Tathiana Mikamura Barchi et al.
-
-### 4. [Affective computing has changed: the foundation model disruption](https://www.nature.com/articles/s44387-025-00061-3)
-
-Authors: Björn Schuller et al.
+Authors: Behniya Sadeghi et al.
 

@@ -4,25 +4,17 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-02-21 PST.
+Pulled on 2026-02-23 PST.
 
-### 1. [Auditing unauthorized training data from AI generated content using information isotopes](https://www.nature.com/articles/s41467-026-68862-x)
+### 1. [A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://www.nature.com/articles/s41467-026-69958-0)
 
-Authors: Tao Qi et al.
+Authors: Chengping He et al.
 
-### 2. [Chatting with an LLM-based AI elicits affective and cognitive processes in education for sustainable development](https://www.nature.com/articles/s41598-026-39317-6)
+### 2. [A large-scale randomized study of large language model feedback in peer review](https://www.nature.com/articles/s42256-026-01188-x)
 
-Authors: Pia Spangenberger et al.
+Authors: Nitya Thakkar et al.
 
-### 3. [A real-time detection framework for road cracks in noisy and morphologically complex environments](https://www.nature.com/articles/s41598-026-41043-y)
+### 3. [Mapping the potential and limitations of using generative AI technologies to address socio-economic challenges in LMICs](https://www.nature.com/articles/s43588-026-00960-8)
 
-Authors: Luxin Fan et al.
-
-### 4. [Integrating multi-scale convolution and attention mechanisms in HybridHAR for high-performance human activity recognition](https://www.nature.com/articles/s41598-026-40904-w)
-
-Authors: Yuanzhi Huo et al.
-
-### 5. [AIM review tool: artificial intelligence for smarter systematic review screening](https://www.nature.com/articles/s44387-026-00080-8)
-
-Authors: Sergio Mena et al.
+Authors: Rachel Adams et al.
 

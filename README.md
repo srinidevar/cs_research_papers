@@ -4,17 +4,17 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-02-23 PST.
+Pulled on 2026-02-28 PST.
 
-### 1. [A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://www.nature.com/articles/s41467-026-69958-0)
+### 1. [Computation of sentence similarity score through hybrid deep learning with a special focus on negation sentence](https://www.nature.com/articles/s41598-025-34084-2)
 
-Authors: Chengping He et al.
+Authors: Rohit M et al.
 
-### 2. [A large-scale randomized study of large language model feedback in peer review](https://www.nature.com/articles/s42256-026-01188-x)
+### 2. [Probabilistic day-ahead forecasting of system-level renewable energy and electricity demand](https://www.nature.com/articles/s41467-026-69015-w)
 
-Authors: Nitya Thakkar et al.
+Authors: Guillermo Terrén-Serrano et al.
 
-### 3. [Mapping the potential and limitations of using generative AI technologies to address socio-economic challenges in LMICs](https://www.nature.com/articles/s43588-026-00960-8)
+### 3. [Small target detection of floating objects in river channels based on improved YOLOv7](https://www.nature.com/articles/s41598-026-40688-z)
 
-Authors: Rachel Adams et al.
+Authors: Weifeng Yang et al.
 

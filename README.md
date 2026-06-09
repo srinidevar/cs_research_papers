@@ -4,13 +4,13 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-03-15 PST.
+Pulled on 2026-06-08 PST.
 
-### 1. [Explainable deep learning for early diagnosis of chronic kidney disease from CT images in Bangladeshi patients](https://www.nature.com/articles/s41598-026-42654-1)
+### 1. [Knowledge distillation for named entity recognition in traditional chinese medicine](https://www.nature.com/articles/s41598-026-56313-y)
 
-Authors: Fariha Jahan et al.
+Authors: Wangping Xiong et al.
 
-### 2. [Sensory-motor control with large language models via iterative policy refinement](https://www.nature.com/articles/s41598-026-42091-0)
+### 2. [Reinforcement learning in linear embedding space unlocks generalizable control across soft robot configurations](https://www.nature.com/articles/s41467-026-72491-9)
 
-Authors: Jonata Tyska Carvalho et al.
+Authors: Xinglong Zhang et al.
 

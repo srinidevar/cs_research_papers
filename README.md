@@ -4,9 +4,9 @@ Collection of today's Computer Science research papers pulled from Nature Open A
 
 ---
 
-Pulled on 2026-09-19 PST.
+Pulled on 2026-09-21 PST.
 
-### 1. [Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems](https://www.nature.com/articles/s41467-026-77768-7)
+### 1. [Real-world mileage and survival of electric vehicles in Britain and implications for lifecycle emissions](https://www.nature.com/articles/s41467-026-77892-4)
 
-Authors: Ray Zirui Zhang et al.
+Authors: Daniel Mehlig et al.
 
